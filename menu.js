@@ -190,7 +190,7 @@ preload(){
     this.load.tilemapTiledJSON('map','assets/tiles/Raion_Full.json');
     this.load.image('full_heart', 'assets/full_heart.png');
     this.load.image('empty_heart', 'assets/empty_heart.png');
-    this.load.image('buta_menu', 'assets/Buta.png');
+    this.load.image('buta_menu', 'assets/buta.png');
     this.load.image('fleches', 'assets/fleches.png');
     this.load.image('orbe', 'assets/orbe.png');
     this.load.spritesheet('ennemi_freeze','assets/BG_FX_glace.png', {frameWidth:400, frameHeight:590});
